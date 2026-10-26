@@ -1,5 +1,5 @@
 🌐 Animated Portfolio Website
-A sleek, responsive, and fully customizable animated portfolio website built using React.js and Tailwind CSS. This project gained 85K+ views on YouTube – loved by developers and students for its modern design and clean code.
+A sleek, responsive, and fully customizable animated portfolio website built using React.js and Tailwind CSS.
 
 🚀 Live Demo
 🔗 View Portfolio Live
@@ -24,8 +24,6 @@ npm install
 npm start
 4. Build for Production
 npm run build
-📹 YouTube Tutorial
-Watch the full build on YouTube: 📺 React Portfolio Website - 85K+ Views
 
 🌟 Credits
 This project was created with ❤️ by Tarun Kaushik. If you like it, feel free to ⭐ this repository and share!
