@@ -16,7 +16,7 @@ Easy to customize with Tailwind utility classes 🎯
 Professional sections: About, Skills, Projects, Contact, etc. 👨‍💻
 🧑‍💻 How to Use
 1. Clone the Repo
-git clone [https://github.com/codingmastr/Tarun-s-Portfolio.git]
+git clone [https://github.com/anoopj427/portfolio/git]
 cd your-repo-name
 2. Install Dependencies
 npm install
